@@ -1,0 +1,10 @@
+{
+    "gamma": 0.95,
+    "epsilon": 1.0,
+    "epsilon_min": 0.05,
+    "epsilon_decay": 0.995,
+    "learning_rate": 0.001,
+    "batch_size": 32,
+    "forecast_steps": 1,
+    "strategy_description": "Predict price movement (\u00b11%) based on current step. a simple note for each one\ncuz its will be saved trough a json file."
+}
